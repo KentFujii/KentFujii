@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Kent Fujii
 
-<!--
-**KentFujii/KentFujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CV
 
-Here are some ideas to get you started:
+[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8469819/kent-cv.docx.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Portfolio
+
+- NishiogiNow
+    - A robot agent to collect restaurants informations within Nishiogi Tokyo Japan
+        - [admin pages](https://nishiogi-now.com/admin/login)
+        - [twitter](https://twitter.com/nishiogi_now)
+        - [instagram](https://www.instagram.com/nishiogi_now/)
+    - technology stack
+        - frontend
+            - react/nextjs
+        - backend
+            - rails/digdag
+        - infrastructure
+            - gcp/k8s
+        - devops
+            - terraform/ansible
