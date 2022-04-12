@@ -2,8 +2,13 @@
 
 ## CV
 
-[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8469819/kent-cv.docx.pdf)
+[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8469887/kent-cv.docx.pdf)
 
+## Social media
+
+- [linkedin](https://www.linkedin.com/in/KentFujii/)
+- [twitter](https://mobile.twitter.com/studies)
+- [facebook](https://www.facebook.com/kent.fujii/)
 
 ## Portfolio
 
