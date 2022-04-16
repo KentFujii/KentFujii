@@ -2,7 +2,8 @@
 
 ## CV
 
-[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8472122/kent-cv.docx.pdf)
+[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8500195/kent-cv.docx.pdf)
+
 
 
 ## Social media
