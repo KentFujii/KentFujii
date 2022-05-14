@@ -2,8 +2,10 @@
 
 ## CV
 
-[kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/8500195/kent-cv.docx.pdf)
-
+- English
+    - [kent-cv.en.docx.pdf](https://github.com/KentFujii/KentFujii/files/8500195/kent-cv.docx.pdf)
+- Japanese
+    - [kent-cv.ja.docx.pdf](https://github.com/KentFujii/KentFujii/files/8693087/docx.pdf)
 
 
 ## Social media
