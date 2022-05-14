@@ -15,6 +15,8 @@
 - [linkedin](https://www.linkedin.com/in/KentFujii/)
 - [twitter](https://mobile.twitter.com/studies)
 - [facebook](https://www.facebook.com/kent.fujii/)
+- [dev.to](https://dev.to/kentfujii)
+- [qiita](https://qiita.com/KentFujii)
 
 ## Portfolio
 
