@@ -21,7 +21,6 @@
 - NishiogiNow
     - A robot agent to collect information of restaurants within Nishiogi Tokyo Japan
         - [landing page](https://nishiogi-now.com)
-        - [admin pages](https://nishiogi-now.com/admin/login)
         - [twitter](https://twitter.com/nishiogi_now)
         - [instagram](https://www.instagram.com/nishiogi_now/)
     - technology stack
