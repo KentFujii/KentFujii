@@ -28,7 +28,7 @@
             - react/nextjs
         - backend
             - rails/digdag
-        - infrastructure
+        - cloud
             - gcp/k8s
         - devops
             - terraform/ansible
