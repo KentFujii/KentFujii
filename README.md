@@ -18,7 +18,7 @@
 ## Portfolio
 
 - NishiogiNow
-    - A robot agent to collect information of restaurants within Nishiogi Tokyo Japan
+    - A robot agent to collect information of restaurants within Nishiogi Suginami Tokyo Japan
         - [landing page](https://nishiogi-now.com)
         - [twitter](https://twitter.com/nishiogi_now)
         - [instagram](https://www.instagram.com/nishiogi_now/)
