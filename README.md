@@ -33,5 +33,5 @@
         - devops
             - terraform/ansible
 
-![katana drawio](https://user-images.githubusercontent.com/10591076/193445882-9e3f8eba-c0ec-43d6-8a08-3467ca12b7e5.svg)
+![katana drawio](https://user-images.githubusercontent.com/10591076/193445906-2f75546d-a313-440a-bac7-edf7863b2cc7.png)
 
