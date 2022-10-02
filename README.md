@@ -3,9 +3,9 @@
 ## CV
 
 - English
-    - [kent-cv.en.docx.pdf](https://github.com/KentFujii/KentFujii/files/9692095/kent-cv.docx.pdf)
+    - [kent-cv.en.docx.pdf](https://github.com/KentFujii/KentFujii/files/9692144/kent-cv.docx.pdf)
 - Japanese
-    - [kent-cv.ja.docx.pdf](https://github.com/KentFujii/KentFujii/files/9116793/docx.pdf)
+    - [kent-cv.ja.docx.pdf](https://github.com/KentFujii/KentFujii/files/9692146/docx.pdf)
 
 ## Social media
 
