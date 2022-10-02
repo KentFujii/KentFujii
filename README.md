@@ -25,10 +25,13 @@
         - [instagram](https://www.instagram.com/nishiogi_now/)
     - technology stack
         - frontend
-            - react/nextjs
+            - nginx/nextjs
         - backend
             - rails/digdag
         - cloud
             - gcp/k8s
         - devops
             - terraform/ansible
+
+![katana drawio](https://user-images.githubusercontent.com/10591076/193445882-9e3f8eba-c0ec-43d6-8a08-3467ca12b7e5.svg)
+
