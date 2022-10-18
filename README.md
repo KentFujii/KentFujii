@@ -24,7 +24,7 @@
         - [instagram](https://www.instagram.com/nishiogi_now/)
     - technology stack
         - frontend
-            - nginx/nextjs
+            - nginx/nextjs/tailwind-css
         - backend
             - rails/digdag
         - cloud
