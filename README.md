@@ -1,5 +1,7 @@
 ### Hi, I'm Kent Fujii
 
+Lean / Agile / DevOps enthusiast
+
 ## CV
 
 - English
