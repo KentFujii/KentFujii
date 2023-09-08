@@ -5,9 +5,9 @@ Lean / Agile / DevOps enthusiast
 ## CV
 
 - English
-    - [kent-cv.en.docx.pdf](https://github.com/KentFujii/KentFujii/files/9692144/kent-cv.docx.pdf)
+    - [kent-cv.docx.pdf](https://github.com/KentFujii/KentFujii/files/12556740/kent-cv.docx.pdf)
 - Japanese
-    - [kent-cv.ja.docx.pdf](https://github.com/KentFujii/KentFujii/files/10265975/kent-cv-ja.docx.pdf)
+    - [職務経歴書.docx.pdf](https://github.com/KentFujii/KentFujii/files/12556750/docx.pdf)
 
 ## Social media
 
