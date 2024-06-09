@@ -20,4 +20,4 @@ Lean / Agile / DevOps enthusiast
 ## Portfolio
 
 [CocktailNow](https://cocktail.nishiogi-now.com/)
-![cocktail nishiogi-now com drawio](https://github.com/KentFujii/KentFujii/assets/10591076/5790495c-a0fc-4956-b974-684d54a93c8d)
+![cocktail nishiogi-now com drawio](https://github.com/KentFujii/KentFujii/assets/10591076/f64e7ef6-0fa1-447a-ada3-99e950f82f6d)
