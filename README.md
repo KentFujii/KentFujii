@@ -12,8 +12,6 @@ Lean / Agile / DevOps enthusiast
 ## Social media
 
 - [linkedin](https://www.linkedin.com/in/KentFujii/)
-- [facebook](https://www.facebook.com/kent.fujii/)
-- [threads](https://www.threads.net/@kentfujii)
 - [dev.to](https://dev.to/kentfujii)
 - [qiita](https://qiita.com/KentFujii)
 
