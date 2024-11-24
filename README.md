@@ -9,9 +9,7 @@ Lean / Agile / DevOps enthusiast
 
 ## Social media
 
-- [linkedin](https://www.linkedin.com/in/KentFujii/)
-- [dev.to](https://dev.to/kentfujii)
-- [qiita](https://qiita.com/KentFujii)
+[linkedin](https://www.linkedin.com/in/KentFujii/)
 
 ## Portfolio
 
