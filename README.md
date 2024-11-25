@@ -1,4 +1,4 @@
-### Hi, I'm Kent Fujii
+# Hi, I'm Kent Fujii
 
 Lean / Agile / DevOps enthusiast
 
