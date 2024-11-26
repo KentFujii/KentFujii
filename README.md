@@ -4,7 +4,7 @@ Lean / Agile / DevOps enthusiast
 
 ## CV
 
-[職務経歴書(令和6年 11月 20日 現在)](https://github.com/user-attachments/files/17912952/2024.docx.pdf)
+[職務経歴書(令和6年 11月 20日 現在)](https://github.com/user-attachments/files/17913615/2024.docx.pdf)
 
 
 ## Social media
