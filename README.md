@@ -2,6 +2,13 @@
 
 Lean / Agile / DevOps enthusiast
 
+- Strong experience in building web apps using Rails/Next.js/Ansible.
+- Strong experience in building and leading a dev team of 9 people in Scrum.
+- Strong experience in B2B Vertical SaaS.
+- Experience in operating cloud environment using IaC tools.
+- Experience in building/operating ETL using Treasure Data's OSS.
+- English: Limited working proficiency (CEFR B2 equivalent to TOEIC score 845)
+
 ## CV
 
 [職務経歴書(令和6年 11月 20日 現在)](https://github.com/user-attachments/files/17913615/2024.docx.pdf)
